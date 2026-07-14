@@ -45,7 +45,6 @@ Among the many executables identified in the memory dump, the majority were legi
 Temporary directories such as `AppData\Local\Temp` are frequently exploited by malware as staging locations for payloads. The combination of the filename (`tcprelay.exe` — suggestive of TCP traffic relay/proxying) and its location in a randomly-named temp subfolder (`TEMP23`) are strong indicators of malicious activity consistent with C2 communication capability.
 
 ## Screenshots
-> <img width="642" height="420" alt="image" src="https://github.com/user-attachments/assets/24ec5d50-ac25-44d4-ab39-17100b3cc92b" />
 > <img width="697" height="456" alt="Screenshot 2026-04-14 153434" src="https://github.com/user-attachments/assets/3451d504-4380-4d0b-bfb3-3c54469e06f6" />
 > <img width="576" height="690" alt="image" src="https://github.com/user-attachments/assets/e02142d1-10e2-4594-baf5-db8b5c3bc260" />
 
